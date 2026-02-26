@@ -10,10 +10,6 @@ El proyecto permite:
 
 ## 📸 Capturas del sistema
 
-Para agregar capturas:
-1. Crea una carpeta `docs/` en la raíz
-2. Súbelas a GitHub y referencia aquí
-
 Ejemplos:
 ![Captura Principal](docs/menuPrincipal.png)
 ![Formulario de Mascotas](docs/cargaDeDatos.png)
